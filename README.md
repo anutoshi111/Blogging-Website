@@ -1,2 +1,2 @@
 # Blogging-Website
-This is project under internship.
+This website is developed using HTML CSS and JS. This is internship task under "THE INTERNS ACADEMY".
